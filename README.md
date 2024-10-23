@@ -51,8 +51,8 @@ response :
     "description": "Lunch at restaurant"
 }
 
-2.Get All Transactions (with Pagination)
-URL: /transactions?page=1&limit=5
+2.Get All Transactions 
+URL: /transactions
 Method: GET
 Response:
         {
